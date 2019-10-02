@@ -1,2 +1,2 @@
 # Infinitus-app
-Aplicativo feito para monitorar sua estufa, utilizando arduino 
+Aplicativo feito para monitorar estufas, utilizando arduino 
