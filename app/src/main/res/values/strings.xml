@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Eden</string>
+    <string name="account_name">E-mail</string>
+    <string name="password"> Senha </string>
+    <string name="password_hint">************</string>
+    <string name="forgot_your_login_info">Esqueceu suas informações de Login</string>
+    <string name="sign_in">Logar</string>
+    <string name="rememcer_my_password">Lembre de mim</string>
+    <string name="username">Usuario</string>
+</resources>
